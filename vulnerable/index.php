@@ -76,8 +76,8 @@
               <input type="email" class="form-control" name="InputEmail" id="InputEmail" aria-describedby="emailHelp" placeholder="E-mail address">
             </div>
             <div class="form-group">
-              <label for="InputPassword">Word</label>
-              <input type="password" class="form-control" name="InputPassword" id="InputPassword" placeholder="Word">
+              <label for="InputPassword">Password</label>
+              <input type="password" class="form-control" name="InputPassword" id="InputPassword" placeholder="Password">
             </div>
             <div class="form-group form-check">
               <input type="checkbox" class="form-check-input" id="Check">
