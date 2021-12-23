@@ -2,7 +2,7 @@
 <?php
 // Reference : https://github.com/muhammetsahinadibas/sql-injection-example-code
   $host = 'localhost';
-  $db_name = 'sql_injection';
+  $db_name = 'sql';
   $username = 'root';
   $password = '';
   $connection = mysqli_connect($host,$username,$password,$db_name);
