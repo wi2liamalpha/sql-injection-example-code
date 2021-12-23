@@ -72,12 +72,12 @@
 
           <form action="index.php" method="post">
             <div class="form-group">
-              <label for="InputEmail">E-posta adresi</label>
-              <input type="email" class="form-control" name="InputEmail" id="InputEmail" aria-describedby="emailHelp" placeholder="E-posta adresi">
+              <label for="InputEmail">E-mail address</label>
+              <input type="email" class="form-control" name="InputEmail" id="InputEmail" aria-describedby="emailHelp" placeholder="E-mail address">
             </div>
             <div class="form-group">
-              <label for="InputPassword">Parola</label>
-              <input type="password" class="form-control" name="InputPassword" id="InputPassword" placeholder="Parola">
+              <label for="InputPassword">Word</label>
+              <input type="password" class="form-control" name="InputPassword" id="InputPassword" placeholder="Word">
             </div>
             <div class="form-group form-check">
               <input type="checkbox" class="form-check-input" id="Check">
